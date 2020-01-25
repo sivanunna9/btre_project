@@ -25,3 +25,51 @@ Watching for file changes with StatReloader
 [25/Jan/2020 07:16:09] "GET / HTTP/1.1" 200 13534
 [25/Jan/2020 07:16:23] "GET /about HTTP/1.1" 200 5790
 [25/Jan/2020 07:16:33] "GET /listings/ HTTP/1.1" 200 4713
+Traceback (most recent call last):
+  File "manage.py", line 8, in <module>
+    from django.core.management import execute_from_command_line
+ModuleNotFoundError: No module named 'django'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "manage.py", line 14, in <module>
+    ) from exc
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[25/Jan/2020 12:37:39] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 12:37:40] "GET /static/css/style.css HTTP/1.1" 200 1946
+[25/Jan/2020 12:37:40] "GET /static/css/lightbox.min.css HTTP/1.1" 200 3404
+[25/Jan/2020 12:37:40] "GET /static/css/all.css HTTP/1.1" 200 60985
+[25/Jan/2020 12:37:40] "GET /static/img/logo.png HTTP/1.1" 200 35715
+[25/Jan/2020 12:37:40] "GET /static/css/bootstrap.css HTTP/1.1" 200 158552
+[25/Jan/2020 12:37:40] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[25/Jan/2020 12:37:40] "GET /static/js/lightbox.min.js HTTP/1.1" 200 9418
+[25/Jan/2020 12:37:40] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 70966
+[25/Jan/2020 12:37:40] "GET /static/js/main.js HTTP/1.1" 200 156
+[25/Jan/2020 12:37:40] "GET /static/img/showcase.jpg HTTP/1.1" 200 451438
+[25/Jan/2020 12:37:40] "GET /static/img/building.jpg HTTP/1.1" 200 623250
+[25/Jan/2020 12:37:40] "GET /static/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 67400
+[25/Jan/2020 12:37:40] "GET /static/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 65316
+[25/Jan/2020 12:37:40] "GET /static/img/lightbox/prev.png HTTP/1.1" 200 1360
+[25/Jan/2020 12:37:40] "GET /static/img/lightbox/next.png HTTP/1.1" 200 1350
+[25/Jan/2020 12:37:40] "GET /static/img/lightbox/close.png HTTP/1.1" 200 280
+[25/Jan/2020 12:37:41] "GET /static/images/loading.gif HTTP/1.1" 404 1678
+Not Found: /favicon.ico
+[25/Jan/2020 12:37:41] "GET /favicon.ico HTTP/1.1" 404 2751
+Watching for file changes with StatReloader
+[25/Jan/2020 12:40:52] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 12:40:53] "GET /static/images/loading.gif HTTP/1.1" 404 1678
+[25/Jan/2020 12:41:17] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 12:41:17] "GET /static/images/loading.gif HTTP/1.1" 404 1678
+[25/Jan/2020 12:41:17] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 12:41:18] "GET / HTTP/1.1" 200 13534
+Watching for file changes with StatReloader
+[25/Jan/2020 12:43:18] "GET /about HTTP/1.1" 200 5790
+[25/Jan/2020 12:43:18] "GET /about HTTP/1.1" 200 5790
+[25/Jan/2020 12:43:19] "GET /about HTTP/1.1" 200 5790
+[25/Jan/2020 12:43:20] "GET /listings/ HTTP/1.1" 200 4713
+[25/Jan/2020 12:43:21] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 12:47:42] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 12:47:43] "GET / HTTP/1.1" 200 13534
