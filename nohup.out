@@ -1,0 +1,27 @@
+Watching for file changes with StatReloader
+[25/Jan/2020 07:15:59] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 07:15:59] "GET /static/css/all.css HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/css/lightbox.min.css HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/css/style.css HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/img/logo.png HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/js/lightbox.min.js HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/js/main.js HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/img/showcase.jpg HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/img/building.jpg HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/img/lightbox/next.png HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/img/lightbox/prev.png HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/img/lightbox/close.png HTTP/1.1" 304 0
+[25/Jan/2020 07:15:59] "GET /static/images/loading.gif HTTP/1.1" 404 1678
+[25/Jan/2020 07:16:01] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 07:16:04] "GET /listings/ HTTP/1.1" 200 4713
+[25/Jan/2020 07:16:05] "GET /about HTTP/1.1" 200 5790
+[25/Jan/2020 07:16:05] "GET /static/img/about.jpg HTTP/1.1" 200 75632
+[25/Jan/2020 07:16:07] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 07:16:09] "GET / HTTP/1.1" 200 13534
+[25/Jan/2020 07:16:23] "GET /about HTTP/1.1" 200 5790
+[25/Jan/2020 07:16:33] "GET /listings/ HTTP/1.1" 200 4713
